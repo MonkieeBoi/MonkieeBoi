@@ -9,3 +9,4 @@ I'm a computer science student at USYD
 ### 🙊 Fun facts:
 - I use colemak (btw)
 - I use nixos (btw)
+- I use neovim (btw)
