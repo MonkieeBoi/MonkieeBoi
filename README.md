@@ -10,3 +10,5 @@ I'm a computer science student at USYD
 - I use colemak (btw)
 - I use nixos (btw)
 - I use neovim (btw)
+
+[Portfolio](https://portfolio-monkeyboy.vercel.app/)
