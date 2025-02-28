@@ -11,4 +11,6 @@ I'm a computer science student at USYD
 - I use nixos (btw)
 - I use neovim (btw)
 
-[Portfolio](https://portfolio-monkeyboy.vercel.app/)
+### 🙉 Links:
+- [LinkedIn](https://www.linkedin.com/in/simon-danh)
+- [Portfolio](https://portfolio-monkeyboy.vercel.app/)
