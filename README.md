@@ -3,7 +3,7 @@
 I'm a computer science student at USYD
 
 ### 🙈 Currently working on:
-- [Anagram Practice App](https://github.com/MonkieeBoi/goana)
+- [Anagram Practice Tool](https://github.com/MonkieeBoi/goana)
 - [Habit tracker](https://github.com/yunz-dev/spnw-api)
 - [Number Memory Game](https://github.com/MonkieeBoi/4Go10)
 
