@@ -7,6 +7,7 @@ I'm a computer science student at USYD
 - [Habit tracker](https://github.com/yunz-dev/spnw-api)
 - [Number Memory Game](https://github.com/MonkieeBoi/4Go10)
 - [LiMao](https://github.com/yunz-dev/LiMao)
+- [QB Finder](https://github.com/MonkieeBoi/qb_finder)
 
 ### 🙊 Fun facts:
 - I use colemak (btw)
